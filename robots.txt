@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liamkinzett.github.io/sts-guide-review/sitemap.xml
